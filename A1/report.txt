@@ -1,0 +1,8 @@
+Perplexity for bigram using Laplace: 	1.00130396101
+Perplexity for trigram using Laplace:	1.00003770912
+
+Perplexity for bigram using Good Turing: 	1.05238193685
+Perplexity for trigram using Good Turing:	1.0
+
+Perplexity for trigram using Kneser Ney:	1.0315987984
+
